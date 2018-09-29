@@ -8,3 +8,6 @@ def yield_test(n):
 print(yield_test(5))
 for i in yield_test(5):
     print(i, ",")
+
+
+print('Anything possible')
